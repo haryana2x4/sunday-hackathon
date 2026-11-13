@@ -1,0 +1,46 @@
+{
+  "user": {
+    "name": "Aryan",
+    "title": "Lead Architect",
+    "focus": "AI & Hackathon Systems",
+    "preferredVoice": "warm_energetic"
+  },
+  "facts": [
+    {
+      "id": 1,
+      "text": "Competes in high-stakes hackathons with offline-first AI models.",
+      "timestamp": "2026-11-01"
+    },
+    {
+      "id": 2,
+      "text": "Prefers local-first execution with zero cloud telemetry for privacy.",
+      "timestamp": "2026-11-02"
+    },
+    {
+      "id": 3,
+      "text": "Working on Sunday v2: The Living Companion with 3D Voxel Rig.",
+      "timestamp": "2026-11-02"
+    },
+    {
+      "id": 1793639592657,
+      "text": "Prefers GPU accelerated AST parsing on RTX 3050",
+      "timestamp": "2026-11-02"
+    },
+    {
+      "id": 1793673270285,
+      "text": "Prefers GPU accelerated AST parsing on RTX 3050",
+      "timestamp": "2026-11-03"
+    },
+    {
+      "id": 1793676598909,
+      "text": "Prefers GPU accelerated AST parsing on RTX 3050",
+      "timestamp": "2026-11-03"
+    }
+  ],
+  "preferences": {
+    "companionAlwaysOnTop": true,
+    "ambientLighting": true,
+    "soundEffects": true,
+    "speechSpeed": 1.05
+  }
+}

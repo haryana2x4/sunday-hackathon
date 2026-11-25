@@ -2,9 +2,9 @@
 
 > **"The first AI assistant with a body. It feels alive, runs 100% on your laptop, and you can create your own companion in 60 seconds."**
 
-[![Offline First](https://img.shields.io/badge/Offline-100%25%20Local-10b981?style=for-the-badge)](file:///C:/Users/Rocky/.gemini/antigravity/scratch/SUNDAY)
-[![Frame Rate](https://img.shields.io/badge/Rendering-60%20FPS%20WebGL-06b6d4?style=for-the-badge)](file:///C:/Users/Rocky/.gemini/antigravity/scratch/SUNDAY)
-[![Latency](https://img.shields.io/badge/First%20Reaction-451ms-8b5cf6?style=for-the-badge)](file:///C:/Users/Rocky/.gemini/antigravity/scratch/SUNDAY)
+![Offline First](https://img.shields.io/badge/Offline-100%25%20Local-10b981?style=for-the-badge)
+![Frame Rate](https://img.shields.io/badge/Rendering-60%20FPS%20WebGL-06b6d4?style=for-the-badge)
+![Latency](https://img.shields.io/badge/First%20Reaction-451ms-8b5cf6?style=for-the-badge)
 
 ---
 
@@ -76,6 +76,6 @@ graph TD
 
 ## 📄 Hackathon Deliverables
 
-- 📜 [DEMO_SCRIPT.md](file:///C:/Users/Rocky/.gemini/antigravity/scratch/SUNDAY/DEMO_SCRIPT.md): Second-by-second walkthrough for the 90s stage presentation.
-- 🎯 [PITCH.md](file:///C:/Users/Rocky/.gemini/antigravity/scratch/SUNDAY/PITCH.md): Problem, solution, market moat, and technical architecture.
-- 📊 [BENCHMARKS.md](file:///C:/Users/Rocky/.gemini/antigravity/scratch/SUNDAY/BENCHMARKS.md): Measured resource usage and latency logs.
+- 📜 [DEMO_SCRIPT.md](./DEMO_SCRIPT.md): Second-by-second walkthrough for the 90s stage presentation.
+- 🎯 [PITCH.md](./PITCH.md): Problem, solution, market moat, and technical architecture.
+- 📊 [BENCHMARKS.md](./BENCHMARKS.md): Measured resource usage and latency logs.

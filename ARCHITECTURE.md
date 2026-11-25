@@ -1,7 +1,7 @@
 # SUNDAY v2: ARCHITECTURE & SYSTEM AUDIT
 **Project**: SUNDAY — The First AI Companion with a Body (Offline-First Voxel Desktop Assistant)  
 **Host Hardware**: 13th Gen Intel Core i7-13620H (10 Cores, 16 Threads) | NVIDIA GeForce RTX 3050 Laptop GPU (6 GB VRAM) | 16 GB DDR5 RAM  
-**Workspace**: `C:\Users\Rocky\.gemini\antigravity\scratch\SUNDAY`  
+**Workspace**: `./sunday-hackathon`  
 **Status**: Phase 0 Complete — Audit & Technical Blueprint
 
 ---
@@ -23,7 +23,7 @@
 
 ## 2. Codebase & Scaffolding Status
 
-The directory `C:\Users\Rocky\.gemini\antigravity\scratch\SUNDAY` is newly provisioned.  
+The directory `./sunday-hackathon` is newly provisioned.  
 - `.agents/rules/sunday.md` has been created with PART 0 Standing Rules.
 - Existing legacy assets from previous projects have been audited: zero conflicting files exist in this workspace.
 
